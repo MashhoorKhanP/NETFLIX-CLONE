@@ -1,0 +1,65 @@
+.banner{
+  color:#ffffff;
+  background-size: cover;
+  height: 711px;
+}
+
+.content-div{
+  width: 40%;
+  padding-left: 60px;
+  padding-top: 150px; 
+}
+
+.moviename-img{
+  width: 90%;
+}
+
+.movie-text{
+  font-size: 2vw;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.description-text{
+  font-size: 1.4vw;
+}
+
+.description-para{
+  font-size: 1.2vw;
+}
+
+.button-play{
+  padding-left:30px;
+  padding-right: 30px;
+  padding-top:8px;
+  padding-bottom:8px;
+  border-radius: 5px;
+  font-size: 1.5vw;
+  font-weight: bold;
+  outline: none;
+  border: none;
+}
+
+.button-info{
+  padding-left:30px;
+  padding-right: 30px;
+  padding-top:8px;
+  padding-bottom:8px;
+  border-radius: 5px;
+  font-size: 1.5vw;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  color: #ffffff;
+  background: #565354;
+}
+
+.button-play:hover{
+  background: #b9b9b9;
+  cursor: pointer;
+}
+
+.button-info:hover{
+  background: #3a3a3a;
+  cursor: pointer;
+}
